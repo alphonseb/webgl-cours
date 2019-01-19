@@ -1,8 +1,10 @@
 {
-    "dependencies": {},
-    "name": "bundler",
+    "dependencies": {
+        "three": "^0.100.0"
+    },
+    "name": "three",
     "version": "1.0.0",
-    "description": "Dossier bundler",
+    "description": "Three.js first project",
     "main": "index.js",
     "author": "Al",
     "license": "MIT",
