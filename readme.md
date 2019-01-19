@@ -1,10 +1,3 @@
-# Webpack Template
+# WebGL
 
-A basic Webpack template
-
-## Features
-
--   Transpiling
--   Cache breaking
--   Hot reloading
--   Stylus integration
+Cours webGL
